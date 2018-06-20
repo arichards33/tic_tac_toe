@@ -1,0 +1,14 @@
+Adventure Awaits-
+
+This will be an app that helps people decide what they want to do for a day out in a city. It will help for people who are traveling and spending a weekend in a
+new city, or locals that wake up and don't know what to do for a day.  The app will let you set some parameters like how much you want to spend, how much time you
+have, if the weather is a fact (you want indoor/outdoor activities), if there's a specific area you want to stay around, etc. Once you select your parameters the app
+will return a randomized itinerary for the day.
+
+Potential Parameters:
+weather
+price
+things to do
+areas
+timing
+transportation
